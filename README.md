@@ -1,5 +1,7 @@
 # Meal Planner
 
+![image](https://user-images.githubusercontent.com/114395573/209796105-86ca9460-19e9-4b2a-bd3a-bea39500a984.png)
+
 
 Description
 A personalized meal and wine planner for Date night and other special events.
