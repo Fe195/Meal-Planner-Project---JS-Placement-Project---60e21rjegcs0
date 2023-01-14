@@ -201,5 +201,3 @@ const btnRecipe = async(data) => {
 };
 
 submit.addEventListener("click", getCalorie);
-  return day;
-}
